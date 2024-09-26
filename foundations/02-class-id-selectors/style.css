@@ -1,0 +1,15 @@
+.redbg{
+    background-color: pink;
+}
+#one{
+    color: blue;
+    font-size: 36px;
+}
+#cooler{
+    font-size: 24px;
+}
+#two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
